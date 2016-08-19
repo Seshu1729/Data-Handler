@@ -1,0 +1,828 @@
+Technical Forums
+Team Members:
+1.	Seshu
+2.	Gouthami
+3.	RaviTeja
+4.	Vinod
+5.	Suresh
+
+Specs:
+•	users can create accounts
+•	users can configure their account settings
+•	users can post questions
+•	answer the posted questions
+•	comment on the answers
+•	an answer has to be accepted by the user who posted the question
+•	points or credits are given to each user posting a question or answering those questions
+•	no of users online are displayed
+
+The website serves as a platform for users to ask and answer questions and edit the same.
+Users who wish to participate in this technical session must register and login. The users can configure their account settings which includes changing the password, changing the username etc.
+The users who have logged in are eligible to post a question on any   technical (computer science Related topics) issue that they have come across. Points or credits are given to the user who asks a question. The other users who can help with the question posted can give answers to that question. The user who posts the question also needs to accept the answer that he finds most useful. Points or credits will be given to the users who give the answers as well. If any user  feels a need to add any extra point to an answer he can do so using the comments option provided for each answer. The number of active users is always displayed at the bottom corner.
+
+
+Technical Forums
+Team Members:
+1.	Seshu
+2.	Gouthami
+3.	RaviTeja
+4.	Vinod
+5.	Suresh
+
+Specs:
+•	users can create accounts
+•	users can configure their account settings
+•	users can post questions
+•	answer the posted questions
+•	comment on the answers
+•	an answer has to be accepted by the user who posted the question
+•	points or credits are given to each user posting a question or answering those questions
+•	no of users online are displayed
+
+The website serves as a platform for users to ask and answer questions and edit the same.
+Users who wish to participate in this technical session must register and login. The users can configure their account settings which includes changing the password, changing the username etc.
+The users who have logged in are eligible to post a question on any   technical (computer science Related topics) issue that they have come across. Points or credits are given to the user who asks a question. The other users who can help with the question posted can give answers to that question. The user who posts the question also needs to accept the answer that he finds most useful. Points or credits will be given to the users who give the answers as well. If any user  feels a need to add any extra point to an answer he can do so using the comments option provided for each answer. The number of active users is always displayed at the bottom corner.
+
+
+Technical Forums
+Team Members:
+1.	Seshu
+2.	Gouthami
+3.	RaviTeja
+4.	Vinod
+5.	Suresh
+
+Specs:
+•	users can create accounts
+•	users can configure their account settings
+•	users can post questions
+•	answer the posted questions
+•	comment on the answers
+•	an answer has to be accepted by the user who posted the question
+•	points or credits are given to each user posting a question or answering those questions
+•	no of users online are displayed
+
+The website serves as a platform for users to ask and answer questions and edit the same.
+Users who wish to participate in this technical session must register and login. The users can configure their account settings which includes changing the password, changing the username etc.
+The users who have logged in are eligible to post a question on any   technical (computer science Related topics) issue that they have come across. Points or credits are given to the user who asks a question. The other users who can help with the question posted can give answers to that question. The user who posts the question also needs to accept the answer that he finds most useful. Points or credits will be given to the users who give the answers as well. If any user  feels a need to add any extra point to an answer he can do so using the comments option provided for each answer. The number of active users is always displayed at the bottom corner.
+
+
+Technical Forums
+Team Members:
+1.	Seshu
+2.	Gouthami
+3.	RaviTeja
+4.	Vinod
+5.	Suresh
+
+Specs:
+•	users can create accounts
+•	users can configure their account settings
+•	users can post questions
+•	answer the posted questions
+•	comment on the answers
+•	an answer has to be accepted by the user who posted the question
+•	points or credits are given to each user posting a question or answering those questions
+•	no of users online are displayed
+
+The website serves as a platform for users to ask and answer questions and edit the same.
+Users who wish to participate in this technical session must register and login. The users can configure their account settings which includes changing the password, changing the username etc.
+The users who have logged in are eligible to post a question on any   technical (computer science Related topics) issue that they have come across. Points or credits are given to the user who asks a question. The other users who can help with the question posted can give answers to that question. The user who posts the question also needs to accept the answer that he finds most useful. Points or credits will be given to the users who give the answers as well. If any user  feels a need to add any extra point to an answer he can do so using the comments option provided for each answer. The number of active users is always displayed at the bottom corner.
+
+
+Technical Forums
+Team Members:
+1.	Seshu
+2.	Gouthami
+3.	RaviTeja
+4.	Vinod
+5.	Suresh
+
+Specs:
+•	users can create accounts
+•	users can configure their account settings
+•	users can post questions
+•	answer the posted questions
+•	comment on the answers
+•	an answer has to be accepted by the user who posted the question
+•	points or credits are given to each user posting a question or answering those questions
+•	no of users online are displayed
+
+The website serves as a platform for users to ask and answer questions and edit the same.
+Users who wish to participate in this technical session must register and login. The users can configure their account settings which includes changing the password, changing the username etc.
+The users who have logged in are eligible to post a question on any   technical (computer science Related topics) issue that they have come across. Points or credits are given to the user who asks a question. The other users who can help with the question posted can give answers to that question. The user who posts the question also needs to accept the answer that he finds most useful. Points or credits will be given to the users who give the answers as well. If any user  feels a need to add any extra point to an answer he can do so using the comments option provided for each answer. The number of active users is always displayed at the bottom corner.
+
+
+Technical Forums
+Team Members:
+1.	Seshu
+2.	Gouthami
+3.	RaviTeja
+4.	Vinod
+5.	Suresh
+
+Specs:
+•	users can create accounts
+•	users can configure their account settings
+•	users can post questions
+•	answer the posted questions
+•	comment on the answers
+•	an answer has to be accepted by the user who posted the question
+•	points or credits are given to each user posting a question or answering those questions
+•	no of users online are displayed
+
+The website serves as a platform for users to ask and answer questions and edit the same.
+Users who wish to participate in this technical session must register and login. The users can configure their account settings which includes changing the password, changing the username etc.
+The users who have logged in are eligible to post a question on any   technical (computer science Related topics) issue that they have come across. Points or credits are given to the user who asks a question. The other users who can help with the question posted can give answers to that question. The user who posts the question also needs to accept the answer that he finds most useful. Points or credits will be given to the users who give the answers as well. If any user  feels a need to add any extra point to an answer he can do so using the comments option provided for each answer. The number of active users is always displayed at the bottom corner.
+
+
+Technical Forums
+Team Members:
+1.	Seshu
+2.	Gouthami
+3.	RaviTeja
+4.	Vinod
+5.	Suresh
+
+Specs:
+•	users can create accounts
+•	users can configure their account settings
+•	users can post questions
+•	answer the posted questions
+•	comment on the answers
+•	an answer has to be accepted by the user who posted the question
+•	points or credits are given to each user posting a question or answering those questions
+•	no of users online are displayed
+
+The website serves as a platform for users to ask and answer questions and edit the same.
+Users who wish to participate in this technical session must register and login. The users can configure their account settings which includes changing the password, changing the username etc.
+The users who have logged in are eligible to post a question on any   technical (computer science Related topics) issue that they have come across. Points or credits are given to the user who asks a question. The other users who can help with the question posted can give answers to that question. The user who posts the question also needs to accept the answer that he finds most useful. Points or credits will be given to the users who give the answers as well. If any user  feels a need to add any extra point to an answer he can do so using the comments option provided for each answer. The number of active users is always displayed at the bottom corner.
+
+
+Technical Forums
+Team Members:
+1.	Seshu
+2.	Gouthami
+3.	RaviTeja
+4.	Vinod
+5.	Suresh
+
+Specs:
+•	users can create accounts
+•	users can configure their account settings
+•	users can post questions
+•	answer the posted questions
+•	comment on the answers
+•	an answer has to be accepted by the user who posted the question
+•	points or credits are given to each user posting a question or answering those questions
+•	no of users online are displayed
+
+The website serves as a platform for users to ask and answer questions and edit the same.
+Users who wish to participate in this technical session must register and login. The users can configure their account settings which includes changing the password, changing the username etc.
+The users who have logged in are eligible to post a question on any   technical (computer science Related topics) issue that they have come across. Points or credits are given to the user who asks a question. The other users who can help with the question posted can give answers to that question. The user who posts the question also needs to accept the answer that he finds most useful. Points or credits will be given to the users who give the answers as well. If any user  feels a need to add any extra point to an answer he can do so using the comments option provided for each answer. The number of active users is always displayed at the bottom corner.
+
+
+Technical Forums
+Team Members:
+1.	Seshu
+2.	Gouthami
+3.	RaviTeja
+4.	Vinod
+5.	Suresh
+
+Specs:
+•	users can create accounts
+•	users can configure their account settings
+•	users can post questions
+•	answer the posted questions
+•	comment on the answers
+•	an answer has to be accepted by the user who posted the question
+•	points or credits are given to each user posting a question or answering those questions
+•	no of users online are displayed
+
+The website serves as a platform for users to ask and answer questions and edit the same.
+Users who wish to participate in this technical session must register and login. The users can configure their account settings which includes changing the password, changing the username etc.
+The users who have logged in are eligible to post a question on any   technical (computer science Related topics) issue that they have come across. Points or credits are given to the user who asks a question. The other users who can help with the question posted can give answers to that question. The user who posts the question also needs to accept the answer that he finds most useful. Points or credits will be given to the users who give the answers as well. If any user  feels a need to add any extra point to an answer he can do so using the comments option provided for each answer. The number of active users is always displayed at the bottom corner.
+
+
+Technical Forums
+Team Members:
+1.	Seshu
+2.	Gouthami
+3.	RaviTeja
+4.	Vinod
+5.	Suresh
+
+Specs:
+•	users can create accounts
+•	users can configure their account settings
+•	users can post questions
+•	answer the posted questions
+•	comment on the answers
+•	an answer has to be accepted by the user who posted the question
+•	points or credits are given to each user posting a question or answering those questions
+•	no of users online are displayed
+
+The website serves as a platform for users to ask and answer questions and edit the same.
+Users who wish to participate in this technical session must register and login. The users can configure their account settings which includes changing the password, changing the username etc.
+The users who have logged in are eligible to post a question on any   technical (computer science Related topics) issue that they have come across. Points or credits are given to the user who asks a question. The other users who can help with the question posted can give answers to that question. The user who posts the question also needs to accept the answer that he finds most useful. Points or credits will be given to the users who give the answers as well. If any user  feels a need to add any extra point to an answer he can do so using the comments option provided for each answer. The number of active users is always displayed at the bottom corner.
+
+
+Technical Forums
+Team Members:
+1.	Seshu
+2.	Gouthami
+3.	RaviTeja
+4.	Vinod
+5.	Suresh
+
+Specs:
+•	users can create accounts
+•	users can configure their account settings
+•	users can post questions
+•	answer the posted questions
+•	comment on the answers
+•	an answer has to be accepted by the user who posted the question
+•	points or credits are given to each user posting a question or answering those questions
+•	no of users online are displayed
+
+The website serves as a platform for users to ask and answer questions and edit the same.
+Users who wish to participate in this technical session must register and login. The users can configure their account settings which includes changing the password, changing the username etc.
+The users who have logged in are eligible to post a question on any   technical (computer science Related topics) issue that they have come across. Points or credits are given to the user who asks a question. The other users who can help with the question posted can give answers to that question. The user who posts the question also needs to accept the answer that he finds most useful. Points or credits will be given to the users who give the answers as well. If any user  feels a need to add any extra point to an answer he can do so using the comments option provided for each answer. The number of active users is always displayed at the bottom corner.
+
+
+Technical Forums
+Team Members:
+1.	Seshu
+2.	Gouthami
+3.	RaviTeja
+4.	Vinod
+5.	Suresh
+
+Specs:
+•	users can create accounts
+•	users can configure their account settings
+•	users can post questions
+•	answer the posted questions
+•	comment on the answers
+•	an answer has to be accepted by the user who posted the question
+•	points or credits are given to each user posting a question or answering those questions
+•	no of users online are displayed
+
+The website serves as a platform for users to ask and answer questions and edit the same.
+Users who wish to participate in this technical session must register and login. The users can configure their account settings which includes changing the password, changing the username etc.
+The users who have logged in are eligible to post a question on any   technical (computer science Related topics) issue that they have come across. Points or credits are given to the user who asks a question. The other users who can help with the question posted can give answers to that question. The user who posts the question also needs to accept the answer that he finds most useful. Points or credits will be given to the users who give the answers as well. If any user  feels a need to add any extra point to an answer he can do so using the comments option provided for each answer. The number of active users is always displayed at the bottom corner.
+
+
+Technical Forums
+Team Members:
+1.	Seshu
+2.	Gouthami
+3.	RaviTeja
+4.	Vinod
+5.	Suresh
+
+Specs:
+•	users can create accounts
+•	users can configure their account settings
+•	users can post questions
+•	answer the posted questions
+•	comment on the answers
+•	an answer has to be accepted by the user who posted the question
+•	points or credits are given to each user posting a question or answering those questions
+•	no of users online are displayed
+
+The website serves as a platform for users to ask and answer questions and edit the same.
+Users who wish to participate in this technical session must register and login. The users can configure their account settings which includes changing the password, changing the username etc.
+The users who have logged in are eligible to post a question on any   technical (computer science Related topics) issue that they have come across. Points or credits are given to the user who asks a question. The other users who can help with the question posted can give answers to that question. The user who posts the question also needs to accept the answer that he finds most useful. Points or credits will be given to the users who give the answers as well. If any user  feels a need to add any extra point to an answer he can do so using the comments option provided for each answer. The number of active users is always displayed at the bottom corner.
+
+
+Technical Forums
+Team Members:
+1.	Seshu
+2.	Gouthami
+3.	RaviTeja
+4.	Vinod
+5.	Suresh
+
+Specs:
+•	users can create accounts
+•	users can configure their account settings
+•	users can post questions
+•	answer the posted questions
+•	comment on the answers
+•	an answer has to be accepted by the user who posted the question
+•	points or credits are given to each user posting a question or answering those questions
+•	no of users online are displayed
+
+The website serves as a platform for users to ask and answer questions and edit the same.
+Users who wish to participate in this technical session must register and login. The users can configure their account settings which includes changing the password, changing the username etc.
+The users who have logged in are eligible to post a question on any   technical (computer science Related topics) issue that they have come across. Points or credits are given to the user who asks a question. The other users who can help with the question posted can give answers to that question. The user who posts the question also needs to accept the answer that he finds most useful. Points or credits will be given to the users who give the answers as well. If any user  feels a need to add any extra point to an answer he can do so using the comments option provided for each answer. The number of active users is always displayed at the bottom corner.
+
+
+Technical Forums
+Team Members:
+1.	Seshu
+2.	Gouthami
+3.	RaviTeja
+4.	Vinod
+5.	Suresh
+
+Specs:
+•	users can create accounts
+•	users can configure their account settings
+•	users can post questions
+•	answer the posted questions
+•	comment on the answers
+•	an answer has to be accepted by the user who posted the question
+•	points or credits are given to each user posting a question or answering those questions
+•	no of users online are displayed
+
+The website serves as a platform for users to ask and answer questions and edit the same.
+Users who wish to participate in this technical session must register and login. The users can configure their account settings which includes changing the password, changing the username etc.
+The users who have logged in are eligible to post a question on any   technical (computer science Related topics) issue that they have come across. Points or credits are given to the user who asks a question. The other users who can help with the question posted can give answers to that question. The user who posts the question also needs to accept the answer that he finds most useful. Points or credits will be given to the users who give the answers as well. If any user  feels a need to add any extra point to an answer he can do so using the comments option provided for each answer. The number of active users is always displayed at the bottom corner.
+
+
+Technical Forums
+Team Members:
+1.	Seshu
+2.	Gouthami
+3.	RaviTeja
+4.	Vinod
+5.	Suresh
+
+Specs:
+•	users can create accounts
+•	users can configure their account settings
+•	users can post questions
+•	answer the posted questions
+•	comment on the answers
+•	an answer has to be accepted by the user who posted the question
+•	points or credits are given to each user posting a question or answering those questions
+•	no of users online are displayed
+
+The website serves as a platform for users to ask and answer questions and edit the same.
+Users who wish to participate in this technical session must register and login. The users can configure their account settings which includes changing the password, changing the username etc.
+The users who have logged in are eligible to post a question on any   technical (computer science Related topics) issue that they have come across. Points or credits are given to the user who asks a question. The other users who can help with the question posted can give answers to that question. The user who posts the question also needs to accept the answer that he finds most useful. Points or credits will be given to the users who give the answers as well. If any user  feels a need to add any extra point to an answer he can do so using the comments option provided for each answer. The number of active users is always displayed at the bottom corner.
+
+
+Technical Forums
+Team Members:
+1.	Seshu
+2.	Gouthami
+3.	RaviTeja
+4.	Vinod
+5.	Suresh
+
+Specs:
+•	users can create accounts
+•	users can configure their account settings
+•	users can post questions
+•	answer the posted questions
+•	comment on the answers
+•	an answer has to be accepted by the user who posted the question
+•	points or credits are given to each user posting a question or answering those questions
+•	no of users online are displayed
+
+The website serves as a platform for users to ask and answer questions and edit the same.
+Users who wish to participate in this technical session must register and login. The users can configure their account settings which includes changing the password, changing the username etc.
+The users who have logged in are eligible to post a question on any   technical (computer science Related topics) issue that they have come across. Points or credits are given to the user who asks a question. The other users who can help with the question posted can give answers to that question. The user who posts the question also needs to accept the answer that he finds most useful. Points or credits will be given to the users who give the answers as well. If any user  feels a need to add any extra point to an answer he can do so using the comments option provided for each answer. The number of active users is always displayed at the bottom corner.
+
+
+Technical Forums
+Team Members:
+1.	Seshu
+2.	Gouthami
+3.	RaviTeja
+4.	Vinod
+5.	Suresh
+
+Specs:
+•	users can create accounts
+•	users can configure their account settings
+•	users can post questions
+•	answer the posted questions
+•	comment on the answers
+•	an answer has to be accepted by the user who posted the question
+•	points or credits are given to each user posting a question or answering those questions
+•	no of users online are displayed
+
+The website serves as a platform for users to ask and answer questions and edit the same.
+Users who wish to participate in this technical session must register and login. The users can configure their account settings which includes changing the password, changing the username etc.
+The users who have logged in are eligible to post a question on any   technical (computer science Related topics) issue that they have come across. Points or credits are given to the user who asks a question. The other users who can help with the question posted can give answers to that question. The user who posts the question also needs to accept the answer that he finds most useful. Points or credits will be given to the users who give the answers as well. If any user  feels a need to add any extra point to an answer he can do so using the comments option provided for each answer. The number of active users is always displayed at the bottom corner.
+
+
+Technical Forums
+Team Members:
+1.	Seshu
+2.	Gouthami
+3.	RaviTeja
+4.	Vinod
+5.	Suresh
+
+Specs:
+•	users can create accounts
+•	users can configure their account settings
+•	users can post questions
+•	answer the posted questions
+•	comment on the answers
+•	an answer has to be accepted by the user who posted the question
+•	points or credits are given to each user posting a question or answering those questions
+•	no of users online are displayed
+
+The website serves as a platform for users to ask and answer questions and edit the same.
+Users who wish to participate in this technical session must register and login. The users can configure their account settings which includes changing the password, changing the username etc.
+The users who have logged in are eligible to post a question on any   technical (computer science Related topics) issue that they have come across. Points or credits are given to the user who asks a question. The other users who can help with the question posted can give answers to that question. The user who posts the question also needs to accept the answer that he finds most useful. Points or credits will be given to the users who give the answers as well. If any user  feels a need to add any extra point to an answer he can do so using the comments option provided for each answer. The number of active users is always displayed at the bottom corner.
+
+
+Technical Forums
+Team Members:
+1.	Seshu
+2.	Gouthami
+3.	RaviTeja
+4.	Vinod
+5.	Suresh
+
+Specs:
+•	users can create accounts
+•	users can configure their account settings
+•	users can post questions
+•	answer the posted questions
+•	comment on the answers
+•	an answer has to be accepted by the user who posted the question
+•	points or credits are given to each user posting a question or answering those questions
+•	no of users online are displayed
+
+The website serves as a platform for users to ask and answer questions and edit the same.
+Users who wish to participate in this technical session must register and login. The users can configure their account settings which includes changing the password, changing the username etc.
+The users who have logged in are eligible to post a question on any   technical (computer science Related topics) issue that they have come across. Points or credits are given to the user who asks a question. The other users who can help with the question posted can give answers to that question. The user who posts the question also needs to accept the answer that he finds most useful. Points or credits will be given to the users who give the answers as well. If any user  feels a need to add any extra point to an answer he can do so using the comments option provided for each answer. The number of active users is always displayed at the bottom corner.
+
+
+Technical Forums
+Team Members:
+1.	Seshu
+2.	Gouthami
+3.	RaviTeja
+4.	Vinod
+5.	Suresh
+
+Specs:
+•	users can create accounts
+•	users can configure their account settings
+•	users can post questions
+•	answer the posted questions
+•	comment on the answers
+•	an answer has to be accepted by the user who posted the question
+•	points or credits are given to each user posting a question or answering those questions
+•	no of users online are displayed
+
+The website serves as a platform for users to ask and answer questions and edit the same.
+Users who wish to participate in this technical session must register and login. The users can configure their account settings which includes changing the password, changing the username etc.
+The users who have logged in are eligible to post a question on any   technical (computer science Related topics) issue that they have come across. Points or credits are given to the user who asks a question. The other users who can help with the question posted can give answers to that question. The user who posts the question also needs to accept the answer that he finds most useful. Points or credits will be given to the users who give the answers as well. If any user  feels a need to add any extra point to an answer he can do so using the comments option provided for each answer. The number of active users is always displayed at the bottom corner.
+
+
+Technical Forums
+Team Members:
+1.	Seshu
+2.	Gouthami
+3.	RaviTeja
+4.	Vinod
+5.	Suresh
+
+Specs:
+•	users can create accounts
+•	users can configure their account settings
+•	users can post questions
+•	answer the posted questions
+•	comment on the answers
+•	an answer has to be accepted by the user who posted the question
+•	points or credits are given to each user posting a question or answering those questions
+•	no of users online are displayed
+
+The website serves as a platform for users to ask and answer questions and edit the same.
+Users who wish to participate in this technical session must register and login. The users can configure their account settings which includes changing the password, changing the username etc.
+The users who have logged in are eligible to post a question on any   technical (computer science Related topics) issue that they have come across. Points or credits are given to the user who asks a question. The other users who can help with the question posted can give answers to that question. The user who posts the question also needs to accept the answer that he finds most useful. Points or credits will be given to the users who give the answers as well. If any user  feels a need to add any extra point to an answer he can do so using the comments option provided for each answer. The number of active users is always displayed at the bottom corner.
+
+
+Technical Forums
+Team Members:
+1.	Seshu
+2.	Gouthami
+3.	RaviTeja
+4.	Vinod
+5.	Suresh
+
+Specs:
+•	users can create accounts
+•	users can configure their account settings
+•	users can post questions
+•	answer the posted questions
+•	comment on the answers
+•	an answer has to be accepted by the user who posted the question
+•	points or credits are given to each user posting a question or answering those questions
+•	no of users online are displayed
+
+The website serves as a platform for users to ask and answer questions and edit the same.
+Users who wish to participate in this technical session must register and login. The users can configure their account settings which includes changing the password, changing the username etc.
+The users who have logged in are eligible to post a question on any   technical (computer science Related topics) issue that they have come across. Points or credits are given to the user who asks a question. The other users who can help with the question posted can give answers to that question. The user who posts the question also needs to accept the answer that he finds most useful. Points or credits will be given to the users who give the answers as well. If any user  feels a need to add any extra point to an answer he can do so using the comments option provided for each answer. The number of active users is always displayed at the bottom corner.
+
+
+Technical Forums
+Team Members:
+1.	Seshu
+2.	Gouthami
+3.	RaviTeja
+4.	Vinod
+5.	Suresh
+
+Specs:
+•	users can create accounts
+•	users can configure their account settings
+•	users can post questions
+•	answer the posted questions
+•	comment on the answers
+•	an answer has to be accepted by the user who posted the question
+•	points or credits are given to each user posting a question or answering those questions
+•	no of users online are displayed
+
+The website serves as a platform for users to ask and answer questions and edit the same.
+Users who wish to participate in this technical session must register and login. The users can configure their account settings which includes changing the password, changing the username etc.
+The users who have logged in are eligible to post a question on any   technical (computer science Related topics) issue that they have come across. Points or credits are given to the user who asks a question. The other users who can help with the question posted can give answers to that question. The user who posts the question also needs to accept the answer that he finds most useful. Points or credits will be given to the users who give the answers as well. If any user  feels a need to add any extra point to an answer he can do so using the comments option provided for each answer. The number of active users is always displayed at the bottom corner.
+
+
+Technical Forums
+Team Members:
+1.	Seshu
+2.	Gouthami
+3.	RaviTeja
+4.	Vinod
+5.	Suresh
+
+Specs:
+•	users can create accounts
+•	users can configure their account settings
+•	users can post questions
+•	answer the posted questions
+•	comment on the answers
+•	an answer has to be accepted by the user who posted the question
+•	points or credits are given to each user posting a question or answering those questions
+•	no of users online are displayed
+
+The website serves as a platform for users to ask and answer questions and edit the same.
+Users who wish to participate in this technical session must register and login. The users can configure their account settings which includes changing the password, changing the username etc.
+The users who have logged in are eligible to post a question on any   technical (computer science Related topics) issue that they have come across. Points or credits are given to the user who asks a question. The other users who can help with the question posted can give answers to that question. The user who posts the question also needs to accept the answer that he finds most useful. Points or credits will be given to the users who give the answers as well. If any user  feels a need to add any extra point to an answer he can do so using the comments option provided for each answer. The number of active users is always displayed at the bottom corner.
+
+
+Technical Forums
+Team Members:
+1.	Seshu
+2.	Gouthami
+3.	RaviTeja
+4.	Vinod
+5.	Suresh
+
+Specs:
+•	users can create accounts
+•	users can configure their account settings
+•	users can post questions
+•	answer the posted questions
+•	comment on the answers
+•	an answer has to be accepted by the user who posted the question
+•	points or credits are given to each user posting a question or answering those questions
+•	no of users online are displayed
+
+The website serves as a platform for users to ask and answer questions and edit the same.
+Users who wish to participate in this technical session must register and login. The users can configure their account settings which includes changing the password, changing the username etc.
+The users who have logged in are eligible to post a question on any   technical (computer science Related topics) issue that they have come across. Points or credits are given to the user who asks a question. The other users who can help with the question posted can give answers to that question. The user who posts the question also needs to accept the answer that he finds most useful. Points or credits will be given to the users who give the answers as well. If any user  feels a need to add any extra point to an answer he can do so using the comments option provided for each answer. The number of active users is always displayed at the bottom corner.
+
+
+Technical Forums
+Team Members:
+1.	Seshu
+2.	Gouthami
+3.	RaviTeja
+4.	Vinod
+5.	Suresh
+
+Specs:
+•	users can create accounts
+•	users can configure their account settings
+•	users can post questions
+•	answer the posted questions
+•	comment on the answers
+•	an answer has to be accepted by the user who posted the question
+•	points or credits are given to each user posting a question or answering those questions
+•	no of users online are displayed
+
+The website serves as a platform for users to ask and answer questions and edit the same.
+Users who wish to participate in this technical session must register and login. The users can configure their account settings which includes changing the password, changing the username etc.
+The users who have logged in are eligible to post a question on any   technical (computer science Related topics) issue that they have come across. Points or credits are given to the user who asks a question. The other users who can help with the question posted can give answers to that question. The user who posts the question also needs to accept the answer that he finds most useful. Points or credits will be given to the users who give the answers as well. If any user  feels a need to add any extra point to an answer he can do so using the comments option provided for each answer. The number of active users is always displayed at the bottom corner.
+
+
+Technical Forums
+Team Members:
+1.	Seshu
+2.	Gouthami
+3.	RaviTeja
+4.	Vinod
+5.	Suresh
+
+Specs:
+•	users can create accounts
+•	users can configure their account settings
+•	users can post questions
+•	answer the posted questions
+•	comment on the answers
+•	an answer has to be accepted by the user who posted the question
+•	points or credits are given to each user posting a question or answering those questions
+•	no of users online are displayed
+
+The website serves as a platform for users to ask and answer questions and edit the same.
+Users who wish to participate in this technical session must register and login. The users can configure their account settings which includes changing the password, changing the username etc.
+The users who have logged in are eligible to post a question on any   technical (computer science Related topics) issue that they have come across. Points or credits are given to the user who asks a question. The other users who can help with the question posted can give answers to that question. The user who posts the question also needs to accept the answer that he finds most useful. Points or credits will be given to the users who give the answers as well. If any user  feels a need to add any extra point to an answer he can do so using the comments option provided for each answer. The number of active users is always displayed at the bottom corner.
+
+
+Technical Forums
+Team Members:
+1.	Seshu
+2.	Gouthami
+3.	RaviTeja
+4.	Vinod
+5.	Suresh
+
+Specs:
+•	users can create accounts
+•	users can configure their account settings
+•	users can post questions
+•	answer the posted questions
+•	comment on the answers
+•	an answer has to be accepted by the user who posted the question
+•	points or credits are given to each user posting a question or answering those questions
+•	no of users online are displayed
+
+The website serves as a platform for users to ask and answer questions and edit the same.
+Users who wish to participate in this technical session must register and login. The users can configure their account settings which includes changing the password, changing the username etc.
+The users who have logged in are eligible to post a question on any   technical (computer science Related topics) issue that they have come across. Points or credits are given to the user who asks a question. The other users who can help with the question posted can give answers to that question. The user who posts the question also needs to accept the answer that he finds most useful. Points or credits will be given to the users who give the answers as well. If any user  feels a need to add any extra point to an answer he can do so using the comments option provided for each answer. The number of active users is always displayed at the bottom corner.
+
+
+Technical Forums
+Team Members:
+1.	Seshu
+2.	Gouthami
+3.	RaviTeja
+4.	Vinod
+5.	Suresh
+
+Specs:
+•	users can create accounts
+•	users can configure their account settings
+•	users can post questions
+•	answer the posted questions
+•	comment on the answers
+•	an answer has to be accepted by the user who posted the question
+•	points or credits are given to each user posting a question or answering those questions
+•	no of users online are displayed
+
+The website serves as a platform for users to ask and answer questions and edit the same.
+Users who wish to participate in this technical session must register and login. The users can configure their account settings which includes changing the password, changing the username etc.
+The users who have logged in are eligible to post a question on any   technical (computer science Related topics) issue that they have come across. Points or credits are given to the user who asks a question. The other users who can help with the question posted can give answers to that question. The user who posts the question also needs to accept the answer that he finds most useful. Points or credits will be given to the users who give the answers as well. If any user  feels a need to add any extra point to an answer he can do so using the comments option provided for each answer. The number of active users is always displayed at the bottom corner.
+
+
+Technical Forums
+Team Members:
+1.	Seshu
+2.	Gouthami
+3.	RaviTeja
+4.	Vinod
+5.	Suresh
+
+Specs:
+•	users can create accounts
+•	users can configure their account settings
+•	users can post questions
+•	answer the posted questions
+•	comment on the answers
+•	an answer has to be accepted by the user who posted the question
+•	points or credits are given to each user posting a question or answering those questions
+•	no of users online are displayed
+
+The website serves as a platform for users to ask and answer questions and edit the same.
+Users who wish to participate in this technical session must register and login. The users can configure their account settings which includes changing the password, changing the username etc.
+The users who have logged in are eligible to post a question on any   technical (computer science Related topics) issue that they have come across. Points or credits are given to the user who asks a question. The other users who can help with the question posted can give answers to that question. The user who posts the question also needs to accept the answer that he finds most useful. Points or credits will be given to the users who give the answers as well. If any user  feels a need to add any extra point to an answer he can do so using the comments option provided for each answer. The number of active users is always displayed at the bottom corner.
+
+
+Technical Forums
+Team Members:
+1.	Seshu
+2.	Gouthami
+3.	RaviTeja
+4.	Vinod
+5.	Suresh
+
+Specs:
+•	users can create accounts
+•	users can configure their account settings
+•	users can post questions
+•	answer the posted questions
+•	comment on the answers
+•	an answer has to be accepted by the user who posted the question
+•	points or credits are given to each user posting a question or answering those questions
+•	no of users online are displayed
+
+The website serves as a platform for users to ask and answer questions and edit the same.
+Users who wish to participate in this technical session must register and login. The users can configure their account settings which includes changing the password, changing the username etc.
+The users who have logged in are eligible to post a question on any   technical (computer science Related topics) issue that they have come across. Points or credits are given to the user who asks a question. The other users who can help with the question posted can give answers to that question. The user who posts the question also needs to accept the answer that he finds most useful. Points or credits will be given to the users who give the answers as well. If any user  feels a need to add any extra point to an answer he can do so using the comments option provided for each answer. The number of active users is always displayed at the bottom corner.
+
+
+Technical Forums
+Team Members:
+1.	Seshu
+2.	Gouthami
+3.	RaviTeja
+4.	Vinod
+5.	Suresh
+
+Specs:
+•	users can create accounts
+•	users can configure their account settings
+•	users can post questions
+•	answer the posted questions
+•	comment on the answers
+•	an answer has to be accepted by the user who posted the question
+•	points or credits are given to each user posting a question or answering those questions
+•	no of users online are displayed
+
+The website serves as a platform for users to ask and answer questions and edit the same.
+Users who wish to participate in this technical session must register and login. The users can configure their account settings which includes changing the password, changing the username etc.
+The users who have logged in are eligible to post a question on any   technical (computer science Related topics) issue that they have come across. Points or credits are given to the user who asks a question. The other users who can help with the question posted can give answers to that question. The user who posts the question also needs to accept the answer that he finds most useful. Points or credits will be given to the users who give the answers as well. If any user  feels a need to add any extra point to an answer he can do so using the comments option provided for each answer. The number of active users is always displayed at the bottom corner.
+
+
+Technical Forums
+Team Members:
+1.	Seshu
+2.	Gouthami
+3.	RaviTeja
+4.	Vinod
+5.	Suresh
+
+Specs:
+•	users can create accounts
+•	users can configure their account settings
+•	users can post questions
+•	answer the posted questions
+•	comment on the answers
+•	an answer has to be accepted by the user who posted the question
+•	points or credits are given to each user posting a question or answering those questions
+•	no of users online are displayed
+
+The website serves as a platform for users to ask and answer questions and edit the same.
+Users who wish to participate in this technical session must register and login. The users can configure their account settings which includes changing the password, changing the username etc.
+The users who have logged in are eligible to post a question on any   technical (computer science Related topics) issue that they have come across. Points or credits are given to the user who asks a question. The other users who can help with the question posted can give answers to that question. The user who posts the question also needs to accept the answer that he finds most useful. Points or credits will be given to the users who give the answers as well. If any user  feels a need to add any extra point to an answer he can do so using the comments option provided for each answer. The number of active users is always displayed at the bottom corner.
+
+
+Technical Forums
+Team Members:
+1.	Seshu
+2.	Gouthami
+3.	RaviTeja
+4.	Vinod
+5.	Suresh
+
+Specs:
+•	users can create accounts
+•	users can configure their account settings
+•	users can post questions
+•	answer the posted questions
+•	comment on the answers
+•	an answer has to be accepted by the user who posted the question
+•	points or credits are given to each user posting a question or answering those questions
+•	no of users online are displayed
+
+The website serves as a platform for users to ask and answer questions and edit the same.
+Users who wish to participate in this technical session must register and login. The users can configure their account settings which includes changing the password, changing the username etc.
+The users who have logged in are eligible to post a question on any   technical (computer science Related topics) issue that they have come across. Points or credits are given to the user who asks a question. The other users who can help with the question posted can give answers to that question. The user who posts the question also needs to accept the answer that he finds most useful. Points or credits will be given to the users who give the answers as well. If any user  feels a need to add any extra point to an answer he can do so using the comments option provided for each answer. The number of active users is always displayed at the bottom corner.
+
+
+Technical Forums
+Team Members:
+1.	Seshu
+2.	Gouthami
+3.	RaviTeja
+4.	Vinod
+5.	Suresh
+
+Specs:
+•	users can create accounts
+•	users can configure their account settings
+•	users can post questions
+•	answer the posted questions
+•	comment on the answers
+•	an answer has to be accepted by the user who posted the question
+•	points or credits are given to each user posting a question or answering those questions
+•	no of users online are displayed
+
+The website serves as a platform for users to ask and answer questions and edit the same.
+Users who wish to participate in this technical session must register and login. The users can configure their account settings which includes changing the password, changing the username etc.
+The users who have logged in are eligible to post a question on any   technical (computer science Related topics) issue that they have come across. Points or credits are given to the user who asks a question. The other users who can help with the question posted can give answers to that question. The user who posts the question also needs to accept the answer that he finds most useful. Points or credits will be given to the users who give the answers as well. If any user  feels a need to add any extra point to an answer he can do so using the comments option provided for each answer. The number of active users is always displayed at the bottom corner.
+
+

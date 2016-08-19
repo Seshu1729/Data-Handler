@@ -1,0 +1,17 @@
+A Client-Server program both written in C using sockets . which will support the following Stores .
+
+Blob Store
+
+Message Store
+
+Calendar Store
+
+In all below stores ,Take the username at the start of the program , and not at each time they add
+
+any message or file etc . All the command line interaction will be a client socket program ,and all
+
+Copying data to files ,extracting data ,major logic should be on the server side .
+
+Example : Client will send the Commands to the server like Get me List of messages etc ,Server will
+
+get that command read from Filesystem,Maybe Parse them and return back the results .
